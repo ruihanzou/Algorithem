@@ -1,4 +1,4 @@
-package zhibo_07_20;
+package coding_07_20;
 
 import java.util.Scanner;
 import java.util.Stack;
