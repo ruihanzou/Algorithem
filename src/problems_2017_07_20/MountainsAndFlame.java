@@ -1,4 +1,4 @@
-package coding_07_20;
+package problems_2017_07_20;
 
 import java.util.Scanner;
 import java.util.Stack;
